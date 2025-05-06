@@ -1,7 +1,7 @@
 ---
 name: Issue 생성
 about: Issue 생성합니다.
-title: "[Type] 이슈 이름"
+title: ''
 labels: ''
 assignees: ''
 
